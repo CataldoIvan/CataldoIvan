@@ -1,18 +1,14 @@
 ![](https://github.com/CataldoIvan/CataldoIvan/blob/main/hola.png?raw=true)
+<h3 align="left">Un poco sobre mi</h3>
+Soy analista de sistemas y programador web Fullstack, amante de la tecnologia. Actualmente me encuentro trabajando en @Ofidirect desempeñándome como soporte IT . Y estoy perfecccionandome en React,NodeJs  y MongoDB (🔥)
 
-Soy analista de sistemas y programador web Fullstack, amante de la tecnologia. Actualmente me encuentro trabajando en @Ofidirect desempeñándome como soporte IT . Y me encuentro aprendiendo React,NodeJs  y MongoDB (🔥)
 Un sueño? aprender todos los lenguajes que existan,  y también  a nadar 😜
-
-- 📫 Podes contactarme en: <br>
-
-<a href="https://www.linkedin.com/in/cataldoivan/"><img style="width:40px" src="linkedin.png"></a>
-<h1 align="center">Hola! 👋 Mi nombre es Ivan</h1>
-<h3 align="center">Soy un Analista de sistemas y un apasionado programador FullStack</h3>
 
 <h3 align="left">Podes escribirme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/cataldoivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/cataldoivan" height="30" width="40" /></a>
-  <a align="center" href="mailto:cataldo.marcos.ivan@gmail.com?Subject=Hola%20Ivan!" target="#"><img height="30" width="40" src="gmail.png"></a>
+
+  <a href="https://www.linkedin.com/in/cataldoivan/"><img style="width:40px" src="linkedin.png"></a>
+  <a margin="30" align="center" href="mailto:cataldo.marcos.ivan@gmail.com?Subject=Hola%20Ivan!" target="#"><img height="30" width="40" src="gmail.png"></a>
 </p>
 
 
